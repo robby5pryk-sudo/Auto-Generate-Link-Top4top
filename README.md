@@ -1,14 +1,8 @@
-   ###    ######## ########  ######## ##       ########   #######  
-  ## ##   ##       ##     ## ##       ##       ##     ## ##     ## 
- ##   ##  ##       ##     ## ##       ##       ##     ## ##     ## 
-##     ## ######   ########  ######   ##       ##     ## ##     ## 
-######### ##       ##   ##   ##       ##       ##     ## ##     ## 
-##     ## ##       ##    ##  ##       ##       ##     ## ##     ## 
-##     ## ##       ##     ## ######## ######## ########   #######
-
 Script ini open source.
 
 This script is open source.
+
+Virus Total Check: https://www.virustotal.com/gui/file/0f7c788e19447fbd534d929fe37e9038ccb9f4cf3622b9f1e3732fbba5e371c6?nocache=1
 
 Bagaimana cara menggunakan nya?.
 Caranya
